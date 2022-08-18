@@ -1,5 +1,5 @@
 "use strict";
-var start = Date.now();
+
 const m = "MCMXCIV";
 let s = m;
 let digit = 0;
